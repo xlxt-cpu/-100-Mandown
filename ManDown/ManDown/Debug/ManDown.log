@@ -1,0 +1,42 @@
+﻿  main.cpp
+  menu.cpp
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(112): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(115): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(122): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(131): warning C4551: 缺少参数列表的函数调用
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(133): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\menu.cpp(197): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  test.cpp
+  game.cpp
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(137): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(193): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(194): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(243): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(253): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(262): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(280): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(292): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(300): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(320): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(321): warning C4305: “+=”: 从“double”到“float”截断
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(352): warning C4305: “+=”: 从“double”到“float”截断
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(353): warning C4305: “+=”: 从“double”到“float”截断
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(357): warning C4305: “+=”: 从“double”到“float”截断
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(358): warning C4305: “+=”: 从“double”到“float”截断
+e:\c2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\mandown\mandown\game.cpp(427): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  正在生成代码...
+  ManDown.vcxproj -> E:\C2作业\期末项目-是男人就下100层\是男人就下100层_邓涛_19软工二班\ManDown\Debug\ManDown.exe

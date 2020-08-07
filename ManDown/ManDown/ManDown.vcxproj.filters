@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\menu">
+      <UniqueIdentifier>{24b02d27-2ed8-456f-966b-ac86a7dac89e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\game">
+      <UniqueIdentifier>{46fb764f-0d2b-4f18-95b0-4f171f131b9e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>源文件\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>源文件\game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ManDown.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\begin.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\details.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hint.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\man0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\manleft.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\manright.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu3.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu4.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\over.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sort.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\TOU.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BJ.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\board7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\begin.mp3" />
+    <Media Include="res\brick1.mp3" />
+    <Media Include="res\brick2.mp3" />
+    <Media Include="res\brick3.mp3" />
+    <Media Include="res\brick4.mp3" />
+    <Media Include="res\brick6.mp3" />
+    <Media Include="res\die.mp3" />
+  </ItemGroup>
+</Project>
